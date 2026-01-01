@@ -1,9 +1,10 @@
 import React from 'react'
+import Herosection from './components/PageNotFound'
 
 const App = () => {
   return (
     <div>
-      <h1 className='text-8xl text-amber-400'> Tailwind-Partice</h1>
+      <Herosection />
     </div>
   )
 }
