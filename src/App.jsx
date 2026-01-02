@@ -1,6 +1,6 @@
 import React from 'react'
-import Herosection from './components/PageNotFound'
 import Navbar from './components/Navbar'
+import Herosection from './components/PageNotFound'
 
 const App = () => {
   return (
